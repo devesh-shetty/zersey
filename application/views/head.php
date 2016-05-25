@@ -27,12 +27,12 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="">Login</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="">SignUp</a>
-                    </li>
+<!--                     <li> -->
+<!--                         <a class="page-scroll" href="">Login</a> -->
+<!--                     </li> -->
+<!--                     <li> -->
+<!--                         <a class="page-scroll" href="">SignUp</a> -->
+<!--                     </li> -->
                     
                 </ul>
             </div>
